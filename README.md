@@ -6,7 +6,7 @@ Welcome to my GitHub profile. I have a strong passion for AI and coding, and my 
 
 - Presently working on: AskHoshi Bot
 - Areas of Interest: AI, Coding
-- How to reach me: Connect on Twitter [@kazzkage_]([https://twitter.com/kazzkage_])
+- How to reach me: Connect on Twitter [@kazzkage_](https://twitter.com/kazzkage_)
 
 Feel free to reach out if you're interested in discussing AI, coding, or just connecting in the realm of technology.
 
